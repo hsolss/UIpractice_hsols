@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    compileSdkVersion 34
+    compileSdkVersion 32
     buildToolsVersion "34.0.0"
 
     defaultConfig {
         applicationId "com.goeay.uipractice_hsols"
         minSdkVersion 23
-        targetSdkVersion 34
+        targetSdkVersion 32
         versionCode 1
         versionName "1.0"
 
